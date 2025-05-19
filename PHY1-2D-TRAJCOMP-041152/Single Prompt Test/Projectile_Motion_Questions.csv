@@ -1,0 +1,37 @@
+Question,Question Text,Flight Time,Range,Distractor I,Distractor II
+q-1,"Three boys are throwing identical rocks straight into the air. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A > B > C,A = B = C,A > B = C,C = B < A
+q-2,"Three cannons fire identical cannonballs at different angles. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A > B > C,A < B = C,A > C = B,C > B = A
+q-3,"Three robots launch steel balls from the ground with different speeds. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A < B < C,A > B > C,A > B = C,A = B > C
+q-4,"Three tanks fire identical shells from the same point. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A < B < C,A > B = C,B < A < C,A < C = B
+q-5,"Three kids jump on trampolines with different strength. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A > C > B,A = C = B,A > C = B,C < A < B
+q-6,"Three fountains shoot identical water droplets into the air. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A > C > B,A < C = B,C = B > A,B < C = A
+q-7,"Three automatic launchers propel iron spheres upward at a park. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A < C < B,A > C > B,C = B > A,A > B > C
+q-8,"Three identical balls are launched from the ground using springs. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",A < C < B,A > C = B,A = C < B,C = A > B
+q-9,"Three soldiers fire bullets straight upward using identical rifles. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",B > A > C,B = A = C,C = B > A,A < B < C
+q-10,"Three identical fireworks are launched vertically at different initial velocities. The trajectories of the three projectiles are shown in the figure below, each labeled A, B, and C. Which of the following best represents the correct ranking of the time it takes for the projectiles to hit the ground?",B > A > C,B < A = C,A > B > C,A = C < B
+q-11,,B < A < C,B > A > C,C > B > A,A = B > C
+q-12,,B < A < C,B > A = C,C = B > A,A > B = C
+q-13,,B > C > A,B = C = A,B < C = A,B < A = C
+q-14,,B > C > A,B < C = A,A = B > C,B < A = C
+q-15,,B < C < A,B > C > A,A = C > B,C > B = A
+q-16,,B < C < A,B > C = A,B > A = C,A > B > C
+q-17,,C > A > B,C = A = B,C = B > A,B < C < A
+q-18,,C > A > B,C < A = B,C < B = A,B < A = C
+q-19,,C < A < B,C > A > B,A > C > B,A > B = C
+q-20,,C < A < B,C > A = B,C = A > B,B < C < A
+q-21,,C > B > A,C = B = A,A > B = C,A = C < B
+q-22,,C > B > A,C < B = A,B > C > A,A > C > B
+q-23,,C < B < A,C > B > A,B = C < A,C < B = A
+q-24,,C < B < A,C > B = A,C = A < B,A > C > B
+q-25,,A = B > C,A < B = C,C > B = A,A = C < B
+q-26,,A = B > C,A < B = C,A > B > C,C < A = B
+q-27,,A = B < C,A < B > C,B > C > A,A > B = C
+q-28,,A = B < C,A < B = C,A < C < B,B > A = C
+q-29,,A = C > B,A < C = B,C > B = A,B < C < A
+q-30,,A = C > B,A < C = B,C > A > B,C = B > A
+q-31,,A = C < B,A < C > B,B > C > A,A < B < C
+q-32,,A = C < B,A < C = B,C = B < A,A < C < B
+q-33,,B = C > A,B < C = A,C > B > A,A = C < B
+q-34,,B = C > A,B < C = A,C = B < A,A > B = C
+q-35,,B = C < A,B < C > A,A = B < C,A = B > C
+q-36,,B = C < A,B < C = A,A > C > B,C < B < A
