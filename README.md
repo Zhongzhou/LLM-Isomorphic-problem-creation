@@ -9,7 +9,7 @@
 1. YAML file (.yml): This file has two parts. 
     * The metadata part contains the **prompt-chain** used for problem bank generation, and additional information about the problem bank.
     * The questions part contains the generated problems and solutions stored in a YAML format.
-    * It is recommended to view the YAML files in either VS Code or Notebook ++ for proper text highlighting.
+    * It is recommended to view the YAML files in either [VS Code](https://code.visualstudio.com/) or [Notepad++](https://notepad-plus-plus.org/) for proper text highlighting.
 
 2. PDF document: This is a saved version of the conversation between the creator and chatGPT during the generation of the problems.
 
@@ -17,5 +17,5 @@
 
 4. Figure folder: Contains all the problem diagrams
 
-5. Single/Simple prompt test folder: Contains the conversation history and outcome of the single prompt/simple prompt tests. Note that a yaml file is not generated for those tests because they were unsuccessful. 
+5. Single/Simple prompt test folder: Contains the conversation history and outcome of the single prompt/simple prompt tests. Note that a yaml file is not generated for those tests because they were unsuccessful.
 
