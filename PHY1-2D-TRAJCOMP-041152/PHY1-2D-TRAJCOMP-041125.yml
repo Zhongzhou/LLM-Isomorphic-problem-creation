@@ -7,7 +7,7 @@
 
 
 bank_info:
-    title: Comparison of flight time in prabolic trajectory
+    title: Comparison of flight time in parabolic trajectory
     bank_id: PHY1-2D-TRAJCOMP-041125 # Trajectory Comparison
     description: Asks students to compare the flight time of three projectile motion trajectories. 
       The three trajectories have varied heights and varied ranges, and the height relation is different from the range relation.
