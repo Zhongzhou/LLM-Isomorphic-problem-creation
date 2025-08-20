@@ -61,7 +61,7 @@ bank_info:
             version: 0.0.1 # The version of the model used
             last updated: 03-06-2025 # The date of the last update of the generation prompts.
     authors:
-        - Anonymized during paper review
+        - Zhongzhou Chen
 
 questions:
 
